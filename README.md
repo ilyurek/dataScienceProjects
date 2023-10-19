@@ -1,2 +1,2 @@
 # Portfolio - Data Science - 
-10 Advanced Data Science Projects
+10 Data Science Projects
